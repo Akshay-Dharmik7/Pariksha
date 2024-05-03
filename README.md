@@ -38,3 +38,22 @@ Contributions are welcome! If you'd like to contribute to Pariksha.
   - Phone Number
 - All entries are validated and appropriate errors will be given
 - Accounts are authenticated using JWT Authentication![](https://github.com/Akshay-Dharmik7/Pariksha/blob/master/SS/registration.png)
+
+### Login Page
+- Users: All who are registered with Exam Dojo
+- Users are required to enter a valid:
+  - Username
+  - Password
+  - First Name
+  - Last Name
+  - Email
+  - Phone Number
+- All entries are validated and appropriate errors will be given
+- Accounts are authenticated using JWT Authentication
+
+  ![](https://github.com/Akshay-Dharmik7/Pariksha/blob/master/SS/admin_login.png)
+
+### Welcome Page of Admin-Side
+- Users: Professors or anyone who has logged in with an Admin Profile
+  
+  ![](https://github.com/Akshay-Dharmik7/Pariksha/blob/master/SS/admin_home.png)
