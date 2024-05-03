@@ -23,16 +23,18 @@ Follow these steps to get started with Pariksha:
 ## Contributing
 Contributions are welcome! If you'd like to contribute to Pariksha.
 
-## Demonstration Images of the Software
-Admin Profile
-Registration Page
-Users: All who are not registered with Exam Dojo
-Users are required to enter a valid:
-Username
-Password
-First Name
-Last Name
-Email
-Phone Number
-All entries are validated and appropriate errors will be given
-Accounts are authenticated using JWT Authentication
+# Demonstration Images of the Software
+
+## Admin Profile
+
+### Registration Page
+- Users: All who are not registered with Exam Dojo
+- Users are required to enter a valid:
+  - Username
+  - Password
+  - First Name
+  - Last Name
+  - Email
+  - Phone Number
+- All entries are validated and appropriate errors will be given
+- Accounts are authenticated using JWT Authentication![](https://github.com/Akshay-Dharmik7/Pariksha/blob/master/SS/registration.png)
