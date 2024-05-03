@@ -127,7 +127,7 @@ Contributions are welcome! If you'd like to contribute to Pariksha.
 - Users: Students
 - How to Get Here: Click on the ‘*All Quizzes*’ button from the menu on the left
 
-![](https://github.com/Akshay-Dharmik7/Pariksha/blob/master/SS/client_home.png)
+![](https://github.com/Akshay-Dharmik7/Pariksha/blob/master/SS/clint_home.png)
 
 
   ### Starting a Quiz
